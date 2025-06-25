@@ -1,0 +1,9 @@
+주피터 실행 방법
+jupyter notebook
+http://localhost:8888/tree
+
+
+라이브러리 설치 방법
+pip install (library 이름)
+
+주피터 종료 방법 control c
